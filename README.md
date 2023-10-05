@@ -1,2 +1,10 @@
+# HactoberFest2023
+
 # Sigma3-DSA-Marathon
-This is for HacktoberFest2023
+
+
+## Rules:
+  - **Share DSA Code** 
+  - Language JavaScript Java C++ Python
+  - The file name must be relevant to the question.  
+  - Have fun
