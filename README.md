@@ -8,3 +8,4 @@
   - Language JavaScript Java C++ Python
   - The file name must be relevant to the question.  
   - Have fun
+Please read our CONTRIBUTING.md to get started.
