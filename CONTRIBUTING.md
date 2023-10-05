@@ -3,6 +3,7 @@
 ### Contributing Guidelines
 
    - Languages allowed: JavaScript Java C++ Python
+   - One person one PR in the repo
    - Fork the repository
    - Create a folder
    - If the folder is already present then add the code file only
