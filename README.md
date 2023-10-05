@@ -1,5 +1,10 @@
 # HactoberFest2023
 
+[![Contribution Open](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/sigma3labs/Sigma3-DSA-Marathon/blob/main/CONTRIBUTING.md)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/sigma3labs/Sigma3-DSA-Marathon/issues)
+[![GitHub issues by-label](https://img.shields.io/github/issues/sigma3labs/Sigma3-DSA-Marathon.svg)](https://github.com/sigma3labs/Sigma3-DSA-Marathon/issues?q=is%3Aissue+is%3Aopen)
+[![GitHub issues by-label](https://img.shields.io/github/issues-pr-closed-raw/sigma3labs/Sigma3-DSA-Marathon.svg)](https://github.com/sigma3labs/Sigma3-DSA-Marathon/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub issues by-label](https://img.shields.io/github/issues-pr/sigma3labs/Sigma3-DSA-Marathon.svg)](https://github.com/sigma3labs/Sigma3-DSA-Marathon/pulls?q=is%3Aopen+is%3Apr)
 # Sigma3-DSA-Marathon
 
 ![logo](https://external-preview.redd.it/hacktoberfest-2023-coming-soon-celebrating-ten-years-of-v0-7iAxY9XdcB1RlomtBWqvtgsafP-TAHZ3h0Goveo_Zjc.jpg?auto=webp&s=a7255699d6e0a0a1a7d2cdc5f10f35cf836861e5)
