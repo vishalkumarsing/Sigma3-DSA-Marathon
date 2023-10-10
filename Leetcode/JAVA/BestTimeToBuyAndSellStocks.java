@@ -1,4 +1,5 @@
 /*
+Question link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 Given an array prices where prices[i] is the price of a given stock on the ith day.
 We need to maximize our profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
 Return the maximum profit that we can achieve from this transaction. If no profit can be achieved then return 0.
